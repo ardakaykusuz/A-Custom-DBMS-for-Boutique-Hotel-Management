@@ -1,1 +1,2 @@
 # SQL-Project
+This project presents the design and implementation of a Database Management System (DBMS) tailored for an imaginary boutique hotel. Boutique hotels are known for their personalized services, unique aesthetics, and limited number of rooms, which makes their operational needs different from large hotel chains. The goal of this DBMS is to streamline and organize key hotel functions in a way that supports efficiency, data accuracy, and a premium guest experience.
